@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![github header](https://github.com/OoriData/.github/assets/43561307/f2f97b69-117f-453a-9fb1-9bae1bd2608e)
+![oori github header](https://github.com/OoriData/.github/assets/43561307/7d276725-7da4-42ac-b38e-2345ad1a54b1)
 
 ### Introduction
 We are a team of expert data engineers working in the fast-changing world of AI, especially in the form of Large Language Models (LLMs). 
