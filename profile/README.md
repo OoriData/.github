@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img src="https://www.oori.dev/assets/branding/oori_TextLogo_Black.png" alt="oori logo" width="500px"/>
+  <img src="https://www.oori.dev/assets/branding/oori_TextLogo_FullColor.png" alt="oori logo" width="500px"/>
 </p>
 
 ### Introduction
