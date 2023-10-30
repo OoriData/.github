@@ -1,2 +1,3 @@
-# .github
-About OoriData
+# OoriData
+
+[oori.dev](https://oori.dev)
