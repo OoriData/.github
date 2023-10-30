@@ -11,6 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+<p align="center">
+  <img src="https://www.oori.dev/assets/branding/oori_TextLogo_Black.png" alt="oori logo" width="500px"/>
+</p>
+
 ### Introduction
 We are a team of expert data engineers working in the fast-changing world of AI, especially in the form of Large Language Models (LLMs). 
 
