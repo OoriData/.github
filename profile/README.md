@@ -17,7 +17,7 @@ We are a team of expert data engineers working in the fast-changing world of AI,
 
 ### Contribution
 We created [OgbujiPT](https://github.com/OoriData/OgbujiPT), an open source python toolkit for using self-hosted large language models (LLMs), 
-but also with support for full-service such as OpenAI's GPT models. 
+but also with support for full-service APIs, such as OpenAI's GPT lineup. 
 
 ### Useful Resources
 - We write about the current state of LLMs and AI on [our blog](oori.dev/blog).
